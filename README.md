@@ -38,7 +38,7 @@ Each task is solved with **two architectures** (Basic RNN, LSTM) and **two embed
 ## 2. Repository Structure
 
 ```
-nlp_project/
+Natural-Language-Processing/
 │
 ├── config.py          # All hyperparameters and run selectors
 ├── load_data.py       # Data loading, vocabulary, embeddings, DataLoaders
